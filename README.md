@@ -1,0 +1,2 @@
+# Sureka
+AI wetherWise API
